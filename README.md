@@ -39,3 +39,5 @@ Se você achou este repositório útil, considere dar um ⭐ (Star) e compartilh
 - [EPAM Anywhere](https://anywhere.epam.com/en)
 - [DreamDev](https://dreamdev.io/)
 - [Virtasant](https://www.virtasant.com/)
+- [Shaw and Partners](https://shawandpartners.com/)
+- [MatchPoint Solutions](https://matchps.com/)
