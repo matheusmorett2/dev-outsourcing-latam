@@ -41,3 +41,4 @@ Se você achou este repositório útil, considere dar um ⭐ (Star) e compartilh
 - [Virtasant](https://www.virtasant.com/)
 - [Shaw and Partners](https://shawandpartners.com/)
 - [MatchPoint Solutions](https://matchps.com/)
+- [Proxify](https://proxify.io/)
